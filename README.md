@@ -49,7 +49,7 @@ O software foi desenvolvido na **STM32CubeIDE** e estruturado para modularidade 
   - Faixa do giroscópio: ±250°/s.
   - Taxa de amostragem: 100 Hz (10 ms por amostra).
 - **Interface de Usuário:**
-  - Navegação no menu com dois botões: `CHANGE` para alternar entre opções e `ENTER` para selecionar.
+  - Navegação no menu com dois push-buttons: `CHANGE` para alternar entre opções e `ENTER` para selecionar.
   - Controle implementado com detecção de borda para evitar duplicação de ícones.
 - **Drivers Utilizados:**
   - Biblioteca externa para o display SSD1306.
