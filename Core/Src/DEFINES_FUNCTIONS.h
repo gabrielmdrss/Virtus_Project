@@ -18,8 +18,8 @@
 
 
 
-#include <math.h>         		// Math library for mathematical operations.
-#include "main.h"         		// Project-specific main header file, for HAL and other declarations.
+#include <math.h>      // Math library for mathematical operations.
+#include "main.h"      // Project-specific main header file, for HAL and other declarations.
 
 // External handles for peripherals (defined in main.c or other implementation files).
 extern I2C_HandleTypeDef hi2c1; ///< I2C peripheral handle for communication (e.g., with MPU6500 and ssd1306).
