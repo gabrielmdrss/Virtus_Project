@@ -70,6 +70,6 @@ Os testes foram realizados de forma funcional exploratória, avaliando cada func
    - Ângulos Pitch e Roll foram estimados com alta fidelidade, demonstrando estabilidade em comparação com os sensores individuais.
 
 4. **Calibração:**
-   - Offsets médios foram calculados e aplicados, resultando em medições mais precisas.
+   - Offsets médios foram calculados e aplicados, resultando em medições mais precisas. 
 
 ---
