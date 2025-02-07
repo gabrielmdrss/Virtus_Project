@@ -61,7 +61,7 @@ Os testes foram realizados de forma funcional exploratória, avaliando cada func
 
 1. **Sistema de Colisão Iminente:**
    - Configuração do limite de distância via potenciômetro, suavizado por filtro passa-baixa.
-   - Testes demonstraram uma oscilação máxima de 1 cm, com acionamento confiável do buzzer ao cruzar o limite.
+   - Testes demonstraram uma oscilação máxima de 1 cm, com acionamento confiável do buzzer ao cruzar o limite. 
 
 2. **Monitoramento Angular:**
    - Leituras dos eixos do giroscópio apresentaram consistência, mas offsets iniciais foram corrigidos após calibração.
