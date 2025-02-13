@@ -1,4 +1,4 @@
-# Sistema Embarcado para Emulação de Funcionalidades de um Drone (VIRTUS - CC)
+# Sistema Embarcado para Emulação de Funcionalidades de um Drone (VIRTUS - CC) - CICLO 1
 
 Este projeto consiste em um sistema embarcado que simula funcionalidades essenciais de um drone, com foco em cálculo de posicionamento angular e detecção de colisão iminente. Utilizando o microcontrolador STM32F446RE e periféricos como o display SSD1306, o sensor MPU6050 e o sensor ultrassônico HC-SR04, o sistema oferece uma interface interativa para visualização e controle.
 
